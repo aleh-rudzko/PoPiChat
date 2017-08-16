@@ -1,0 +1,21 @@
+{
+  "name": "chat",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "unsav <aleh.rudzko@qweeco.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/static/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "sockjs-client": "^1.1.4"
+  }
+}
